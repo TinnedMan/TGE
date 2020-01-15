@@ -1,3 +1,4 @@
+//-----MACROS-------//
 #pragma once
 #ifdef TGE_PLATFORM_WINDOWS
 	#ifdef TGE_BUILD_DLL

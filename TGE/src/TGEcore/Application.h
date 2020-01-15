@@ -13,4 +13,5 @@ namespace Tge {
 		void Run();
 	};
 
+	Application* CreateApplication();
 }

@@ -24,6 +24,9 @@
     <ClInclude Include="src\Tge.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\TGEcore\EntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\TGEcore\Application.cpp">

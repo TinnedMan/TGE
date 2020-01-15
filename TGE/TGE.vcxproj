@@ -14,6 +14,7 @@
     <ClInclude Include="src\TGEcore\Application.h" />
     <ClInclude Include="src\TGEcore\Core.h" />
     <ClInclude Include="src\Tge.h" />
+    <ClInclude Include="src\TGEcore\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\TGEcore\Application.cpp" />
